@@ -12,15 +12,9 @@
 - [Author](#author)
 - [License](#license)
 
-<img src="https://user-images.githubusercontent.com/8595291/80893910-d5f3a700-8cac-11ea-8f16-49e2644d382f.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80893924-f02d8500-8cac-11ea-8b07-d70776965003.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80893929-f0c61b80-8cac-11ea-9d66-a27d07a1f799.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80893931-f15eb200-8cac-11ea-9db4-0277ed647b80.png" width="400"/>
-
-<img src="https://user-images.githubusercontent.com/8595291/80894006-70ec8100-8cad-11ea-950c-bf7c11f146da.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80894009-721dae00-8cad-11ea-9d87-62e5fa4cbba3.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80894010-721dae00-8cad-11ea-99eb-b5d37dbde358.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/8595291/80894011-72b64480-8cad-11ea-8821-b1ec9f5f833f.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/8595291/80893910-d5f3a700-8cac-11ea-8f16-49e2644d382f.png" width="400"/><img src="https://user-images.githubusercontent.com/8595291/80893924-f02d8500-8cac-11ea-8b07-d70776965003.png" width="400"/><img src="https://user-images.githubusercontent.com/8595291/80893929-f0c61b80-8cac-11ea-9d66-a27d07a1f799.png" width="400"/><img src="https://user-images.githubusercontent.com/8595291/80893931-f15eb200-8cac-11ea-9db4-0277ed647b80.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/8595291/80894006-70ec8100-8cad-11ea-950c-bf7c11f146da.png" width="400"/><img src="https://user-images.githubusercontent.com/8595291/80894009-721dae00-8cad-11ea-9d87-62e5fa4cbba3.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/8595291/80894010-721dae00-8cad-11ea-99eb-b5d37dbde358.png" width="400"/><img src="https://user-images.githubusercontent.com/8595291/80894011-72b64480-8cad-11ea-8821-b1ec9f5f833f.png" width="400"/>
 
 ## Getting Started
 
